@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const API_URL = 'http://localhost:3000/api/v1'
+  const API_URL = 'https://pure-escarpment-11919.herokuapp.com/api/v1'
 
   let counter = 1
 
